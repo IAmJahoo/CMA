@@ -1,4 +1,4 @@
-# MKwA
+# Computer Methods in Astronomy
 
 This is my repository, where i put sourcecodes for my class called "Computer Methods in Astronomy"
 
